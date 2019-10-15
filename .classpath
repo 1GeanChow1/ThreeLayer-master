@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path=""/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/Microsoft JDBC Driver 7.2 for SQL Server/sqljdbc_7.2/chs/mssql-jdbc-7.2.2.jre8.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
